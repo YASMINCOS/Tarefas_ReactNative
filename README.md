@@ -1,13 +1,12 @@
 # App de Tarefas em React Native
 Este é um aplicativo de tarefas desenvolvido usando a biblioteca React Native. Ele permite que você adicione, exclua e navegue entre diferentes páginas para gerenciar suas tarefas diárias. Com este aplicativo, você pode manter o controle das suas tarefas de forma simples e eficiente.
 
-## Funcionalidades
-
+**Funcionalidades**
 - Adicionar uma nova tarefa
 - Excluir uma tarefa
 - Navegar entre páginas
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8McrpM9GA-Q" frameborder="0" allowfullscreen></iframe>
 
+Para ver uma demonstração do aplicativo, [clique aqui](https://www.youtube.com/watch?v=8McrpM9GA-Q).
 
 ## Como usar
 
