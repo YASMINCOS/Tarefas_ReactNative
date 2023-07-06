@@ -6,6 +6,8 @@ Este é um aplicativo de tarefas desenvolvido usando a biblioteca React Native. 
 - Adicionar uma nova tarefa
 - Excluir uma tarefa
 - Navegar entre páginas
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8McrpM9GA-Q" frameborder="0" allowfullscreen></iframe>
+
 
 ## Como usar
 
